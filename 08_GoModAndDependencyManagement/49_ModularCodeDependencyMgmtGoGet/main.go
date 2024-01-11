@@ -9,4 +9,6 @@ import (
 func main() {
 	fmt.Println(puppy.BigBark())
 	fmt.Println(puppy.BigBarks())
+
+	puppy.From13()
 }
