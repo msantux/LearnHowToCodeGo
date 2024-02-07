@@ -2,5 +2,7 @@ github.com/msantux/dog v0.0.0-20240111123458-99922970ff91 h1:LM/btIm/HebFudk0YIr
 github.com/msantux/dog v0.0.0-20240111123458-99922970ff91/go.mod h1:98LAbFHDaV+vEzcPeQjTuEuZ4EH2l6scqzIHqi6N8Mg=
 github.com/msantux/puppy v1.3.0 h1:+CkXruOO97yCikAWY4DSNRomu31NBtYttElg+YBQ3uE=
 github.com/msantux/puppy v1.3.0/go.mod h1:RPZU2QXcwhAoMpk+7DlK9qmjG7pGCYK3IXn0TkZCh6I=
+golang.org/x/crypto v0.18.0 h1:PGVlW0xEltQnzFZ55hkuX5+KLyrMYhHld1YHO4AKcdc=
+golang.org/x/crypto v0.18.0/go.mod h1:R0j02AL6hcrfOiy9T4ZYp/rcWeMxM3L6QYxlOuEG1mg=
 golang.org/x/exp v0.0.0-20240119083558-1b970713d09a h1:Q8/wZp0KX97QFTc2ywcOE0YRjZPVIx+MXInMzdvQqcA=
 golang.org/x/exp v0.0.0-20240119083558-1b970713d09a/go.mod h1:idGWGoKP1toJGkd5/ig9ZLuPcZBC3ewk7SzmH0uou08=
